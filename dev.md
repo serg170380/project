@@ -2,4 +2,4 @@
 
 some update
 
-update frome git kraken
+update from git kraken
